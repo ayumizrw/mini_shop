@@ -1,0 +1,12 @@
+com.minimalshop.minimal_shop.app-jetified-window-1.0.0-beta04-0 /Users/test/.gradle/caches/transforms-3/016b28df7c0e3e8affb53c04d0673620/transformed/jetified-window-1.0.0-beta04/res
+com.minimalshop.minimal_shop.app-jetified-annotation-experimental-1.1.0-1 /Users/test/.gradle/caches/transforms-3/102c7d0822a981ba0caf88edf327ea62/transformed/jetified-annotation-experimental-1.1.0/res
+com.minimalshop.minimal_shop.app-core-1.6.0-2 /Users/test/.gradle/caches/transforms-3/88601c9aa4a68bf1d53330e7c419b3d9/transformed/core-1.6.0/res
+com.minimalshop.minimal_shop.app-jetified-window-java-1.0.0-beta04-3 /Users/test/.gradle/caches/transforms-3/ff95897403f15704b9b4ba091c827e2d/transformed/jetified-window-java-1.0.0-beta04/res
+com.minimalshop.minimal_shop.app-debug-4 /Users/test/AndroidStudioProjects/minimal_shop/android/app/src/debug/res
+com.minimalshop.minimal_shop.app-main-5 /Users/test/AndroidStudioProjects/minimal_shop/android/app/src/main/res
+com.minimalshop.minimal_shop.app-pngs-6 /Users/test/AndroidStudioProjects/minimal_shop/build/app/generated/res/pngs/debug
+com.minimalshop.minimal_shop.app-resValues-7 /Users/test/AndroidStudioProjects/minimal_shop/build/app/generated/res/resValues/debug
+com.minimalshop.minimal_shop.app-rs-8 /Users/test/AndroidStudioProjects/minimal_shop/build/app/generated/res/rs/debug
+com.minimalshop.minimal_shop.app-mergeDebugResources-9 /Users/test/AndroidStudioProjects/minimal_shop/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.minimalshop.minimal_shop.app-mergeDebugResources-10 /Users/test/AndroidStudioProjects/minimal_shop/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.minimalshop.minimal_shop.app-merged_res-11 /Users/test/AndroidStudioProjects/minimal_shop/build/app/intermediates/merged_res/debug
